@@ -13,4 +13,9 @@ public class Member {
     private Integer id;
     private String username;
     private String password;
+
+    public String getPassword() {
+
+        return null;
+    }
 }
