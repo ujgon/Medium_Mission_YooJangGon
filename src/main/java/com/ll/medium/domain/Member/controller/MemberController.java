@@ -53,4 +53,9 @@ public class MemberController {
         }
         return "로그아웃 실패";
     }
+
+    @GetMapping("/member/login")
+    public String loginForm() {
+        return "로그인 폼";
+    }
 }
