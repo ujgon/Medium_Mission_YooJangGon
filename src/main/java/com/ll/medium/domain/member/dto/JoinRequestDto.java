@@ -1,4 +1,4 @@
-package com.ll.medium.domain.Member.dto;
+package com.ll.medium.domain.member.dto;
 
 import lombok.Getter;
 
