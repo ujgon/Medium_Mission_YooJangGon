@@ -1,8 +1,8 @@
-package com.ll.medium.domain.Member.service;
+package com.ll.medium.domain.member.service;
 
-import com.ll.medium.domain.Member.dto.JoinRequestDto;
-import com.ll.medium.domain.Member.entity.Member;
-import com.ll.medium.domain.Member.repository.MemberRepository;
+import com.ll.medium.domain.member.dto.JoinRequestDto;
+import com.ll.medium.domain.member.entity.Member;
+import com.ll.medium.domain.member.repository.MemberRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
